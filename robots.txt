@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://davetiye-ornek.com/sitemap.xml
